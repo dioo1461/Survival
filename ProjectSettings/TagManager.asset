@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerAttack
+  - Tree
+  - DroppedItemAccessPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackGround
+  - Item
+  - Player
+  - Enemy
+  - Object
+  - AttackMotion
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2888092385
+    locked: 0
+  - name: Item
+    uniqueID: 1969830091
+    locked: 0
+  - name: Player
+    uniqueID: 1287454337
+    locked: 0
+  - name: Enemy
+    uniqueID: 2627814237
+    locked: 0
+  - name: Object
+    uniqueID: 533369991
+    locked: 0
+  - name: AttackMotion
+    uniqueID: 1405540367
+    locked: 0
+  - name: UI
+    uniqueID: 2953443681
+    locked: 0

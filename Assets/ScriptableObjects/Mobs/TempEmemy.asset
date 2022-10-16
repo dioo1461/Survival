@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ca921beff066b94b96a4301d374a021, type: 3}
+  m_Name: TempEmemy
+  m_EditorClassIdentifier: 
+  _name: TempEnemy
+  _hp: 500
+  _moveSpeed: 1
+  _damage: 15
+  _exp: 50
+  _prefab_mob: {fileID: 167493627022759404, guid: 5d555db1678be9543851428482de91bc,
+    type: 3}
